@@ -27,8 +27,24 @@ print ('tony \niron man')
 print (r'tony \niron man')
 
 
+# 2ND variables(where we store values) in python.x,y are variables.As they are variables we dont need ''\"".
+x = 5
+y = 10
+print (x+y)
+print (x+1)
+#value of a variable can be changed
+x=3
+print (x)
 
+#indexing in python. where numbers start from 0. 2nd methoid can be used to avoid errors. Can also use -ve values.
+name = 'tony'
+print (name[0])
+print (name[0:6])
+print (name[-2])
 
-
+#if not mentioned where to end it go till the end of the value.
+#if not mentioned where to begin it start from the beginning of the value.
+print (name[0:])
+print (name[:3])
 
 
