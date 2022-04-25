@@ -26,6 +26,8 @@ print("haven")
 print ('tony \niron man')
 print (r'tony \niron man')
 
+
+
 # 2ND variables(where we store values) in python.x,y are variables.As they are variables we dont need ''\"".
 x = 5
 y = 10
