@@ -18,3 +18,15 @@ print (sorted(nums))
 print (min(nums))
 print (max(nums))
 
+
+
+# creating set.any thing in "{}" is a set. values are muatable but dont follow any sequence.
+# as it doesnt follow any sequence it doesnt support index value.
+song = {'faded','alone','sorry'}
+print (song)
+
+#doesnt support append,insert,pop
+song.remove('faded')
+print (song)
+# set(['alone', 'sorry'])
+#while printimg it print 'set' at first
