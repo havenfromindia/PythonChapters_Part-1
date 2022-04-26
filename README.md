@@ -63,11 +63,11 @@ print (max(values))
 # sum of all values
 print (sum(values))
 
-#for asending order
+#for ascending order
 values.sort()
 print (values)
 # gives [23, 23, 45, 56, 70, 90]
 
-# arranging in alphabetic order
+# arranging in alphabetic order & also in ascending order
 print(sorted())
 
