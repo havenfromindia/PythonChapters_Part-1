@@ -17,6 +17,8 @@ print (sorted(nums))
 #[5.6, 20, 34, 67]
 print (min(nums))
 print (max(nums))
+#sort arrange it in alphabetic value
+print (sorted(movies))
 
 
 
@@ -30,3 +32,6 @@ song.remove('faded')
 print (song)
 # set(['alone', 'sorry'])
 #while printimg it print 'set' at first
+
+#sort arrange it in alphabetic value
+print (sorted(song))
