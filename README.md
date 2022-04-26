@@ -1,4 +1,4 @@
-#making a list(mutable/changeble)
+#making a list(mutable/changeble).use "[]" to make a list.
 values = [23,45,68,'henry','nobita',2.3]
 print (values)
 #inex values
