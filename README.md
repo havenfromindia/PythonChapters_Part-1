@@ -33,5 +33,5 @@ print (song)
 # set(['alone', 'sorry'])
 #while printimg it print 'set' at first
 
-#sort arrange it in alphabetic value
+#sort arrange it in alphabetic value  & also in ascending order(both for tuple & set)
 print (sorted(song))
