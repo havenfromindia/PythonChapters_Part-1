@@ -68,3 +68,6 @@ values.sort()
 print (values)
 # gives [23, 23, 45, 56, 70, 90]
 
+# arranging in alphabetic order
+print(sorted())
+
