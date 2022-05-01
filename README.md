@@ -21,7 +21,7 @@ print (a,b)
 #(5, 10)
 
 # same formula with xor function
-# xor same bits
+# xor reduce bits
 a = a ^ b
 b = a ^ b
 a = a ^ b
