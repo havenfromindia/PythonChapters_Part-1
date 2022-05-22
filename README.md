@@ -33,3 +33,6 @@ print ('the year he was born',birth[6:10])
 #('the day he was born', '16')
 #('the month he was born', '10')
 #('the year he was born', '2006')
+
+
+#the input in python 3 is different
