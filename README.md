@@ -11,3 +11,13 @@ for i in range(2, nums):
     else:
         print(nums, 'is prime')
     break
+
+# modified
+values = [4, 5, 6, 12]
+for j in values:
+    for i in range(2, j):
+        if j % i == 0:
+            print(j, 'is not prime')
+        else:
+            print(j, 'is prime')
+        break
