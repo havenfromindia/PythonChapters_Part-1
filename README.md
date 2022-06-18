@@ -53,6 +53,13 @@ print (values)
 nums = [23,56,70]
 values.extend(nums)
 print (values)
+# extend function
+pokemon = ['pikachu', 'bulbasaur']
+type = ['electic', 'grass']
+pokemon.extend(type)
+print(pokemon)
+# ['pikachu', 'bulbasaur', 'electic', 'grass']
+
 
 #for the least value
 print (min(values))
